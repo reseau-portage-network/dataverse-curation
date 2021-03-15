@@ -1,0 +1,40 @@
+# Build settings
+
+markdown: kramdown
+remote_theme: reseau-portage-network/carte
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+# Site settings
+
+title_en: Portage Dataverse Curation Guide
+title_fr: Guide pour la curation dans Dataverse
+author: Portage Network
+url: "https://portagenetwork.ca/"
+email: "portage@carl-abrc.ca"#
+description: #A simple and awesome blog theme powered by jekyll.
+keywords: # [""]
+
+
+lang: en
+languages: ["en", "fr"]
+permalink: pretty
+
+collections:
+  posts:
+    output: true
+    permalink: /:path
+
+social:
+  github_username:  reseau-portage-network
+
+#license_url: "http://creativecommons.org/licenses/by/4.0/"
+#license_name: "Creative Commons Attribution 4.0 International License"
+#license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
