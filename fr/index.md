@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Guide de survie pour la curation de données
+title: Guide pour la curation dans Dataverse
 description: ""
 lang: fr
 ref: home
@@ -21,6 +21,7 @@ ref: home
 </tbody>
 </table>
 
+<!--
 Ce site Web est un espace qui permet aux praticiens de la gestion (GDR) et de la curation des données de recherche de partager des ressources liées à la pratique de la curation des données. La collectivité a fourni le contenu de ces pages et des membres du Groupe d'experts sur la curation des données de Portage l'ont organisé et entretenu.
 
 ## Premiers pas dans la curation des données
@@ -44,3 +45,4 @@ Questions sur la curation de données qu'ont soumises, et auxquelles ont répond
 **Souhaitez-vous vous joindre à la collectivité de la curation des données canadienne?** Joignez les rangs de notre [groupe Google](https://groups.google.com/forum/#!forum/can-dcn).
 
 **Désirez-vous soumettre des commentaires sur ce site? Souhaitez-vous contribuer à son élaboration?** Communiquez avec nous à l'aide de [ce formulaire](https://forms.gle/4i3VmBK5o228P4pf6).
+-->

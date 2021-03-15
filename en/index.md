@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Data Curation Commons
-description: "Curation resources and guidance by and for the community."
+title: Portage Dataverse Curation Guide
+description: "A guide for Dataverse Curators"
 lang: en
 ref: home
 ---
@@ -11,14 +11,14 @@ ref: home
 <tbody>
 <tr>
 <td>
-<p><b>This website is currently in a beta phase</b>. Though bilingual functionality exists, we are still working on translating all elements.</p>
+<p><b>This website is currently in a alpha phase</b>. Though bilingual functionality exists, we are still working on translating all elements.</p>
 <p>If you would like to provide feedback or help build this resource, please see the link at the bottom for contact information.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <!---
---->
+
 
 This website is a space for research data management and curation practitioners to share resources related to the practice of data curation. The content of these pages has been provided by the community and curated by members of the Portage Curation Expert Group.
 
@@ -43,3 +43,5 @@ This website is developed and managed by the Portage [Curation Expert Group](htt
 **Interested in joining the Canadian Data Curation Community?** Join our [Google Group](https://groups.google.com/forum/#!forum/can-dcn).
 
 **Want to provide feedback about this site? Interested in helping to develop it?** Contact us via [this form](https://forms.gle/4i3VmBK5o228P4pf6).
+
+-->
