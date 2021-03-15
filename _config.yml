@@ -6,11 +6,11 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-seo-tag
-defaults:
-  - scope:
-      path: "assets/img"
-    values:
-      image: true
+#defaults:
+#  - scope:
+#      path: "assets/img"
+#    values:
+#      image: true
 
 # Site settings
 
@@ -27,13 +27,13 @@ lang: en
 languages: ["en", "fr"]
 permalink: pretty
 
-collections:
-  posts:
-    output: true
-    permalink: /:path
+#collections:
+#  posts:
+#    output: true
+#    permalink: /:path
 
 social:
-  github_username:  reseau-portage-network
+  github_username: reseau-portage-network
 
 #license_url: "http://creativecommons.org/licenses/by/4.0/"
 #license_name: "Creative Commons Attribution 4.0 International License"
