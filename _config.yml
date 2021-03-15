@@ -23,9 +23,9 @@ description: #A simple and awesome blog theme powered by jekyll.
 keywords: # [""]
 
 
-lang: en
-languages: ["en", "fr"]
-permalink: pretty
+# lang: en
+# languages: ["en", "fr"]
+# permalink: pretty
 
 #collections:
 #  posts:
