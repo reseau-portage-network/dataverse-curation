@@ -3,7 +3,7 @@ subtitle: A guide for dataverse curators
 #description: A guide for dataverse curators
 # keywords: # [""]
 
-remote_theme: reseau-portage-network/just-the-docs
+remote_theme: scds/just-the-docs
 #logo: /assets/img/Portage_logo_Tagline_rgb_bilingual.png
 search_enabled: true
 heading_anchors: true
