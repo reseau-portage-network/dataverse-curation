@@ -7,8 +7,6 @@ logo: /assets/img/Portage_logo_Tagline_rgb_bilingual.png
 search_enabled: true
 heading_anchors: true
 
-
-#github_repo_url: "https://github.com/reseau-portage-network/dataverse-curation"
 plugins:
  # - jekyll-feed
   - jekyll-remote-theme
