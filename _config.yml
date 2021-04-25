@@ -2,7 +2,8 @@
 
 #markdown: kramdown
 remote_theme: reseau-portage-network/just-the-docs
-github_repo_url: "https://github.com/reseau-portage-network/dataverse-curation"
+#github_repo_url: "
+https://github.com/reseau-portage-network/dataverse-curation"
 plugins:
  # - jekyll-feed
   - jekyll-remote-theme
@@ -36,6 +37,6 @@ keywords: # [""]
 social:
   github_username: reseau-portage-network
 
-#license_url: "http://creativecommons.org/licenses/by/4.0/"
-#license_name: "Creative Commons Attribution 4.0 International License"
-#license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
+license_url: "http://creativecommons.org/licenses/by/4.0/"
+license_name: "Creative Commons Attribution 4.0 International License"
+license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
