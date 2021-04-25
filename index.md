@@ -11,7 +11,7 @@ nav_order: 1
 <tbody>
 <tr>
 <td>
-<p><b>This website is currently in a alpha phase</b>.</p>
+<p><b>This website is currently in an alpha phase</b>.</p>
 </td>
 </tr>
 </tbody>
