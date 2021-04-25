@@ -18,7 +18,7 @@ plugins:
 title_en: Portage Dataverse Curation Guide
 title_fr: Guide pour la curation dans Dataverse
 author: Portage Network
-url: "https://portagenetwork.ca/"
+url: "https://reseau-portage-network.github.io/dataverse-curation"
 email: "portage@carl-abrc.ca"#
 description: #A simple and awesome blog theme powered by jekyll.
 keywords: # [""]
