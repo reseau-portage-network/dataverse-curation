@@ -1,2 +1,1 @@
-# dataverse-curation
-Materials for the Portage Dataverse Curation Guide
+# curation-guide-test
