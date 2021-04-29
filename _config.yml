@@ -4,7 +4,7 @@ subtitle: A guide for dataverse curators
 # keywords: # [""]
 
 remote_theme: reseau-portage-network/just-the-docs
-colour_scheme: light
+colour_scheme: dark # light 
 #logo: /assets/img/Portage_logo_Tagline_rgb_bilingual.png
 search_enabled: true
 heading_anchors: true
