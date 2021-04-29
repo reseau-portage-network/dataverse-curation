@@ -8,6 +8,8 @@ nav_order: 2
 parent: Instructions
 ---
 
+The CURATION checklist is divided into 3 levels: Level 1, Level 2 and Level 3. Level 1 is the basic required information that should be completed to publish a dataset in Dataverse. Depending on the level of service that your institution is able to provide, you may be able to complete some of the items in levels 2 and 3. A description of each level is below:
+
 |       Curation Level		   |       Description |
 |------------------------------|--------------------------------------|
 |Level 1 | The minimum steps required to successfully publish in Dataverse and make the dataset findable, i.e., the dataset has been submitted to the proper dataverse and required metadata fields are accurate.|
